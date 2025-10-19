@@ -7,6 +7,8 @@ Type: Web Application
 
 
 Available Features
+
+
 Real-time weather data integration
 Forecast logic and display using external APIs
 Clean Python-based backend (app.py)
